@@ -6,3 +6,6 @@ Use this for Pull requests
 
 # Hacktoberfest 2020
 #Sadisha Nimsara
+
+# Hacktoberfest 2020
+#Krishan Shamod
